@@ -1,1 +1,68 @@
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>Sec, Fucked!</title><style type="text/css"></style></head><body style="padding: 0px 0px 0px;"><div align="center"><p><br><img src="https://scontent.fdiy2-1.fna.fbcdn.net/v/t1.6435-9/57451008_2111371042231965_8735741017937936384_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=dd63ad&amp;_nc_ohc=6YlmtA4hNvEAX8iiZGb&amp;_nc_oc=AQnFHD0mBEvwkrA_D2phpvrqxoCYwYZULSL0uXuugE4r2jeDgJTfzFJvZZxgG7H6hSg&amp;_nc_ht=scontent.fdiy2-1.fna&amp;oh=00_AfATf732ttMTTcoeGqyNP37Vpwu3s_Oy28Hgo25yEakqtA&amp;oe=660D957C" alt="http://oi65.tinypic.com/11ky4cx.jpg"></p><h1>Domain Seized! <font color="red" size="6">OBT</font> &amp; <font color="red" size="6">SENORITA</font></h1><p class="style1">KUURRDDIISSTTAANNN<br>Hadi Amk Ülkesi Olan Kazanır<br>:D</p><p class="style1">Amk Şizofreni Hastaları Sizi<br>Hayal Kalacak, Ağlayın<br></p><p></p><p class="style1">We Are; </p><p class="style1">@obttht | www.turkhackteam.org</p><font color="red" size="4"><strong>God's of the internet?</strong></font></div><br><br><iframe width="0" height="0" src="https://www.youtube.com/embed/A6a2uITki1Y?&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></body></html>
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Low Sec</title>
+
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="OBT">
+    <meta name="keywords" content="OBT">
+
+    <link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet">
+
+    <style>
+        body{
+            margin:0;
+            padding:0;
+            overflow:hidden;
+            background:black;
+            font-family:'Share Tech Mono', monospace;
+            color:white;
+        }
+
+        .container{
+            display:flex;
+            flex-direction:column;
+            justify-content:center;
+            align-items:center;
+            height:100vh;
+            text-align:center;
+        }
+
+        iframe{
+            margin-bottom:20px;
+            border:none;
+        }
+
+        #q{
+            font-size:30px;
+        }
+
+        .telegram{
+            font-size:25px;
+            color:darkred;
+            margin-top:10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+
+    <iframe allow="fullscreen;autoplay" allowfullscreen height="400" src="https://streamable.com/e/yxyoc7?autoplay=1" width="500" style="border:none;"></iframe>
+
+    <div id="q">
+        Peşindeyiz, Seni Tanıyoruz!
+    </div>
+
+    <div class="telegram">
+        t.me | @obttht
+    </div>
+
+</div>
+
+</body>
+</html>
